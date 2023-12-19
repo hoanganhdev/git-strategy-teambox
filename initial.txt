@@ -1,2 +1,3 @@
 Đây là file đầu tiên trong repo này!
 Thêm commit của GST-0001
+Tôi muốn add line này cho GST-0002.
