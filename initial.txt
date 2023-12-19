@@ -1,1 +1,3 @@
 Đây là file đầu tiên trong repo này!
+
+Tôi muốn add line này cho GST-0002.
